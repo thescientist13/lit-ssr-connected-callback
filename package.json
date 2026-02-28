@@ -1,0 +1,20 @@
+{
+  "name": "lit-ssr-connected-callback",
+  "version": "1.0.0",
+  "description": "A demonstration repo for testing Lit SSR w/ connectedCallback support.",
+  "author": "Owen Buckley <owen@thegreenhouse.io>",
+  "type": "module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thescientist13/lit-ssr-connected-callback.git"
+  },
+  "keywords": [
+    "Lit",
+    "SSR"
+  ],
+  "dependencies": {
+    "@lit-labs/ssr": "^4.0.0",
+    "lit": "^3.3.2"
+  }
+}
